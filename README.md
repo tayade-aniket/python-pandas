@@ -47,4 +47,3 @@ Pandas DataFrame is a two-dimensional data structure with labeled axes (rows and
 ### Creating DataFrame
 Pandas DataFrame is created by loading the datasets from existing storage (which can be a SQL database, a CSV file, or an Excel file).
 Pandas DataFrame can be created from lists, dictionaries, a list of dictionaries, etc.
-
